@@ -1,0 +1,45 @@
+6²4 ⁴⁸33&ss- 0 Q
+
+OBSERVATIONES
+ANALYTICAE VARIAE
+DE COMfflNA'HOMEVS
+Auetore
+L· Euler.
+
+ξ. 1.
+
+Proposita nobis fit series quantitatum quammcunque fi-
+ve finita siue iu infinitum excurrens hacc:
+a‚b,c‚d, e,s,g, h,etc.
+
+quae litterae denotent quantitates quascunque siue inter se
+aequales sine inaequales. Interim tamen quantitatee„ quae
+ditionis litteris indicantur , inter ie inaequales voc-abo ‚
+etiamsi in exemplis earnm loco numeros aequales substi-
+tuere liceat.
+
+ξ. 2. Nunc primo ex his quantit-„itibus formentur
+potestatibus sumendis nouae series , quarum luminae dc-
+signentur litteris maiusculis A, B, C, D etc. vt sequitur :
+sit scilicet
+
+Aza -÷-b —†-c -i— d -με ÷etc.
+
+Eza²÷b²÷c·²÷ d³—†—e²-†-etc.
+
+Cza³÷b=÷c³÷d=÷e³÷ct0
+
+D: α* -ὶ- b⁴—÷- 0⁴-l- d⁴ —4— e⁴ —-÷- etc.
+
+E Ξ (2² —i— b⁵ -i— c5 —-}- d⁵ -i- e⁵ -i- etc.
+
+etc.
+qnae series singulae ernnt infinitae, si numerus quantita-
+
+tum a,l›, c, d,ctc. all'nmtarnm fucrit infinitum lin au-
+tem uumerus harum quantitatum sit finitus ac determi-
+
+natus
+
+e
+

@@ -1,0 +1,44 @@
+DE solvis MVLTIFARHS 169
+
+Modus quamn est , cnm ambae extremitates prae-
+dictis planis non quidem sunt infixae {ed innituntur sal-
+tem.
+
+Denique Modi mixti dantur quam plurimi.
+
+§. IV. Laminae elasticae dum oscillationes suas per-
+ficiunt incuruantur‚ quae curuatura ante omnia determi-
+nanda est: quocunque autem modo vibrentur, quamuis
+infinitis modis inter oscillandum inflectantur, attamen
+cnruatura eirundem perpetuo ma eademque aequatione
+definitur: aequatio nempe inter absciffas x et applicatas
+
+y haec est poCfita dx constante:
+
+d⁴y Ξ ἦτε] d x* siue breuius s* d⁴y :y d π*
+hancque aequationem in prima differt-atione ὖ. IV. ex
+principiis mechanicis deduxi, quod si autem calculus lo-
+co citato institutus examinetur, apparebit eundem valere
+pro omnibus oscillationum modis. Quia vero praefata
+aequatio est quarti ordinis , ideo quatuor inuoluit arbi<
+trarias constantes, quae vero pro quouis ostillationum
+exemplo ita lunt (eligendae vt problematis conditionibus
+satisfiat.
+
+ξ, V. Prouti curuatura laminarum pro omni oscilla-
+tionum genere vniuersaliffime definiri potest , ita et ex-
+pressio generaliffima pro pendulo simplici cum oscillatio-
+nibus laminae isochronis vbique eadem inseruit: hanc
+expressionem ξ. VIII. superioris dissertationis innenimus,
+si scilicet desiderata longitudo penduli dicatur L , osten·
+
+dimus fore semper j
+,. g ⁴
+
+‘— „0
+
+in qua expressione littera g denotat vim grauitatis, quae
+proinde si multiplicetur per longitudinem laminae l ex-
+
+Tom. XIII. Y primat
+

@@ -1,0 +1,49 @@
+DE INTERPOLATIONE SIMPL. MEDIT. 3¹5
+
+Sint interpolandi 2. numeri ct loca adsmt 3.
+6
+
+ξ. ³·
+λ’. (I. ,1¹-
+
+Scilicet x ponitur primo loco quoniam ξ- dimidium
+superant, in loco medio autem ponitur a (qui numerum
+cognitum praecedentem indicat) quia ξ vnit-atem cum di-
+midio non superant , ergo secundus numerus integer ter-
+tio demum loco poni debet.
+
+Sint tandem 3. loca per 3. vnitates implenda, id
+fit prouti facile attendenti patet, smgulas vnitates fibi in-
+vicem addendo ‚ aut subtrahendo, prouti numeri ctestunt
+aut decrescunt3 exinde oritur sequens sthema.
+
+pro duobus locis
+x - - - a x
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 - --xx
+1 - — 01
+2 - - 11
+3 -- 12
+4- - - 22
+5 ··· ” 23
+6—--33ssss
+pro tribus locis
+1 - - - axa
+2 - - - xax
+3 xxv
+1 010
+2 ⁶· 101
+3 - - 111
+
